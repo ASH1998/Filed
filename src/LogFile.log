@@ -1,0 +1,188 @@
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\main.py', reloading
+INFO:root:Processing started at : 2021-02-27 23:36:49.271007
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\main.py', reloading
+INFO:root:Processing started at : 2021-02-27 23:36:50.903127
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\main.py', reloading
+INFO:root:Processing started at : 2021-02-27 23:36:58.712086
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\main.py', reloading
+INFO:root:Processing started at : 2021-02-27 23:37:06.555127
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\main.py', reloading
+INFO:root:Processing started at : 2021-02-27 23:49:23.779983
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:49:24.358983
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:49:25] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:49:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:50:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:50:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:50:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:50:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:50:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:51:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:51:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Feb/2021 23:53:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:18.521842
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:23.263653
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:35.180863
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:40.932021
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:45.668701
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:49.362661
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:56:59.224886
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:57:04.960315
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:57:39.425588
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:57:42.095132
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:57:45.800339
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:57:55.659759
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:58:39.393797
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:58:46.183842
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:58:48.880341
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:58:53.598112
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:00.385900
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:03.051777
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:28.324951
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:38.181970
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:42.949039
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:44.642892
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Projects\\flask-sounds\\src\\audioServer.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Processing started at : 2021-02-27 23:59:59.690187
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 571-443-446
+INFO:werkzeug: * Running on http://127.0.0.1:9000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:01:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:sanity check started
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:02:30] "[37mGET /sanitycheck HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:02:44] "[37mGET /get/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:03:12] "[31m[1mGET /get/2.2 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:03:16] "[37mGET /get/2/2 HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 00:03:30] "[31m[1mGET /get/2.2 HTTP/1.1[0m" 400 -

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "flask-sounds",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "E:\\cenvs\\sounds\\python.exe"
+	}
+}
